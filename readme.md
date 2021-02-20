@@ -1,0 +1,1 @@
+Nesse Exercicio estudei os arrays e algumas das muitas opções que eles oferecem, como fazer arrays multidirecionais, apontar entre eles e criar novas opções para arrays já definidos.
